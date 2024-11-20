@@ -54,7 +54,7 @@ sections:
     subtitle: WEBINARS & PODCASTS
     items:
       - type: FeaturedItem
-        title: TITLE
+        title: SAP/HANA
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
