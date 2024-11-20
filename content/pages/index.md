@@ -86,7 +86,7 @@ sections:
         text: |
           Learn about:
 
-          \- Data migration steps and requirements.
+          Data migration steps and requirements.
         image:
           url: >-
             /images/modern new fashion product announcement instagram post
