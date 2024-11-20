@@ -56,7 +56,7 @@ sections:
       - type: FeaturedItem
         title: SAP/HANA MIGRATIONS
         subtitle: RICHARD FITZHARRIS & JOHN DOE
-        text: "Learn about:\n\n\\- Mandatory requirements for SAP/HANA migrations.\_\n"
+        text: "Learn about:\n\nMandatory requirements for SAP/HANA migrations.\_\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
