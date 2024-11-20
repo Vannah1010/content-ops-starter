@@ -91,7 +91,7 @@ sections:
         image:
           url: >-
             /images/modern new fashion product announcement instagram post
-            (5).png
+            (7).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
