@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: JOIN OUR WEBINARS & PODCASTS
+      text: WEBINAR - SAP/HANA MIGRATIONS
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
