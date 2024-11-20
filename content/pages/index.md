@@ -136,7 +136,7 @@ sections:
     actions:
       - label: Request Recordings
         altText: ''
-        url: 'https://mail.google.com/mail/?view=cm&to=michael'
+        url: 'https://mail.google.com/mail/?view=cm&to=edwin@techstone-boomi.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
