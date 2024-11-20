@@ -48,7 +48,7 @@ sections:
           - pr-16
     media:
       type: ImageBlock
-      url: /images/modern new fashion product announcement instagram post (4).png
+      url: /images/modern new fashion product announcement instagram post (3).png
       altText: Image alt text placeholder
       elementId: ''
       styles:
