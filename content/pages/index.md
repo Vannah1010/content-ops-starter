@@ -51,7 +51,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: WEBINARS & Pod
+    subtitle: WEBINARS & PODCASTS
     items:
       - type: FeaturedItem
         title: SAP/HANA MIGRATIONS
