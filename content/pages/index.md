@@ -83,10 +83,7 @@ sections:
               borderRadius: x-large
       - title: DATA MIGRATIONS
         subtitle: RICHARD FITZHARRIS & JOHN DOE
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Learn about:\n\n\\- Mandatory requirements for SAP/HANA migrations.\_\n"
         image:
           url: >-
             /images/modern new fashion product announcement instagram post
