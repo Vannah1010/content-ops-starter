@@ -135,7 +135,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Request Recordings
-        altText: 'Request '
+        altText: Request Access
         url: 'https://mail.google.com/mail/?view=cm&to=edwin@techstone-boomi.com'
         showIcon: false
         icon: arrowRight
