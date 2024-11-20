@@ -54,7 +54,7 @@ sections:
     subtitle: WEBINARS & PODCASTS
     items:
       - type: FeaturedItem
-        title: SAP/HANA
+        title: SAP/HANA IMPLEMENTATION
         subtitle: RICHARD FITZHARRIS & JOHN DOE
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
