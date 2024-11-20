@@ -225,7 +225,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: UPCOMING WEBINAR
+      label: UPCOMING PODCAST
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
