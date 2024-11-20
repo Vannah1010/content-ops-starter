@@ -24,7 +24,7 @@ sections:
       label: ''
       color: text-primary
       type: Badge
-    elementId: PIXEL
+    elementId: PIXEL 1
     colors: bg-light-fg-dark
     styles:
       self:
