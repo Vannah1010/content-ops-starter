@@ -110,10 +110,10 @@ sections:
         type: FeaturedItem
       - title: DATA MANAGEMENT
         subtitle: RICHARD FITZHARRIS & JOHN DOE
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Learn about:
+
+          \- Data management strategies and implementations. 
         image:
           url: >-
             /images/modern new fashion product announcement instagram post
