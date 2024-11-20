@@ -45,7 +45,7 @@ sections:
           borderRadius: medium
   - type: FeaturedItemsSection
     title:
-      text: EVENTS
+      text: UPCOMING EVENTS
       color: text-dark
       styles:
         self:
