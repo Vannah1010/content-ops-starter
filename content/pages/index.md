@@ -118,7 +118,9 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: >-
+            /images/modern new fashion product announcement instagram post
+            (7).png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
