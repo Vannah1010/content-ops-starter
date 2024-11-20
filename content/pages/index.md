@@ -56,10 +56,7 @@ sections:
       - type: FeaturedItem
         title: SAP/HANA MIGRATIONS
         subtitle: RICHARD FITZHARRIS & JOHN DOE
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Learn about: \n\\- How Boomi-TechStone’s HYPERHANA & AI Accelerator solution can be implemented\n\\- Mandatory requirements for SAP/HANA migrations.\_\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
