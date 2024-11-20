@@ -45,7 +45,7 @@ sections:
           borderRadius: medium
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: EVENTS
       color: text-dark
       styles:
         self:
