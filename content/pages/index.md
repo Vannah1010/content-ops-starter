@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: SAP/HANA
-        subtitle: Numbers Done
+        subtitle: JOHN DOE & JANE DOE
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
