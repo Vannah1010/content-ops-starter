@@ -141,7 +141,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: KEY
+      label: '2025'
       color: text-primary
       styles:
         self:
