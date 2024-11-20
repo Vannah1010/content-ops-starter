@@ -33,7 +33,7 @@ sections:
         padding:
           - pt-10
           - pl-16
-          - pb-10
+          - pb-3
           - pr-16
     media:
       type: ImageBlock
