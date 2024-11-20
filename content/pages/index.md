@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/modern new fashion product announcement instagram post (3).png
-      altText: Unblock your team boost your time to production preview
+      altText: WEBINARS & PODCASTS
       elementId: ''
       type: ImageBlock
     badge:
