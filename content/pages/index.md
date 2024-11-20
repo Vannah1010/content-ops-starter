@@ -31,11 +31,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: /images/logo-dark.svg
-      altText: WEBINARS & PODCASTS
-      elementId: ''
-      type: ImageBlock
     badge:
       label: This is a badge
       color: text-primary
