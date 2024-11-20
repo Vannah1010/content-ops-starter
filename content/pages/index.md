@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/modern new fashion product announcement instagram post (3).png
+      url: /images/logo-dark.svg
       altText: WEBINARS & PODCASTS
       elementId: ''
       type: ImageBlock
