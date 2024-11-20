@@ -8,7 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: SPEAKERS - RICHARD FITZHARRIS & JOHN DOE
-    text: "Learn about : \n\\- How Boomi-TechStone’s HYPERHANA & AI Accelerator solution can be implemented\n\\- Mandatory requirements for SAP/HANA migrations.\_\n"
+    text: |
+      RICHARD FITZHARRIS & JOHN DOE
     actions:
       - label: REGISTER NOW
         altText: ''
