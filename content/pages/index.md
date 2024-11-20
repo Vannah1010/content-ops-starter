@@ -136,7 +136,7 @@ sections:
     actions:
       - label: Request Recordings
         altText: ''
-        url: /
+        url: 'https://mail.google.com/mail/?view=cm&to=michael'
         showIcon: false
         icon: arrowRight
         iconPosition: right
