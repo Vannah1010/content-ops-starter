@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: SPEAKERS - RICHARD FITZHARRIS & JOHN DOE
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Learn about : \n\\- How Boomi-TechStone’s HYPERHANA & AI Accelerator solution can be implemented\n\\- Mandatory requirements for SAP/HANA migrations.\_\n"
     actions:
       - label: REGISTER NOW
         altText: ''
