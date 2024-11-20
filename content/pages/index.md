@@ -7,7 +7,7 @@ sections:
       text: WEBINAR - SAP/HANA MIGRATIONS
       color: text-dark
       type: TitleBlock
-    subtitle: SPEAKERS - RICHARD FITZHARRIS & JOHN DOE
+    subtitle: '4PM, 25 JAN'
     text: |
       RICHARD FITZHARRIS & JOHN DOE
     actions:
