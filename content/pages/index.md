@@ -113,7 +113,7 @@ sections:
         text: |
           Learn about:
 
-          \- Data management strategies and implementations. 
+          Data management strategies and implementations.
         image:
           url: >-
             /images/modern new fashion product announcement instagram post
